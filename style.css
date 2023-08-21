@@ -741,6 +741,14 @@ footer {
         width: 60%;
     }
 
+    .element-top .icon-card {
+        height: 354.66px;
+    }
+
+    .element-2 {
+        height: 354.66px;
+    }
+
     .advantages {
         flex-wrap: wrap;
         flex-direction: column;
